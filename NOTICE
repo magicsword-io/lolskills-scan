@@ -1,0 +1,10 @@
+lolskills-scan
+Copyright 2026 MagicSword.
+
+The LOLSkills scan skill and helper are licensed under Apache License 2.0.
+MagicSword names and logos are trademarks. Apache License 2.0 does not grant
+trademark rights beyond the uses described in its Section 6.
+
+The private scanner engine, detection rules, and model are not distributed in
+this repository and are not licensed by this notice. The hosted service uses
+NOVA Framework and YARA Forge; see the README for upstream project links.
